@@ -79,6 +79,6 @@ works across Australia and internationally. Use Australian English.
 - Check changes by screenshotting at both widths:
 
 ```
-npx playwright screenshot --full-page --viewport-size=1280,900 --channel=chrome "file:///C:/Users/KenMoore/Documents/R/qalm-learning/site/index.html" desktop.png
-npx playwright screenshot --full-page --viewport-size=390,844 --channel=chrome "file:///C:/Users/KenMoore/Documents/R/qalm-learning/site/index.html" mobile.png
+npx playwright screenshot --full-page --viewport-size=1280,900 --channel=chrome "file:///C:/Users/KenMoore/Documents/R/qalm-website/site/index.html" desktop.png
+npx playwright screenshot --full-page --viewport-size=390,844 --channel=chrome "file:///C:/Users/KenMoore/Documents/R/qalm-website/site/index.html" mobile.png
 ```
